@@ -68,7 +68,7 @@ Here are some ideas to get you started:
         <br>
         <!-- Activity Widget -->
         <img alt="Alex Chipre's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=chipredev&show_icons=true&theme=radical" />
+                src="https://github-readme-stats.vercel.app/api?username=achipre&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
