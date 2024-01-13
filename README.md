@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **achipre/achipre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,8 +17,6 @@ Here are some ideas to get you started:
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
-
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -40,23 +36,27 @@ Here are some ideas to get you started:
         </samp>
         <!-- Technologies -->
         <!-- JavaScript -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
+        <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/npm/v/npm.svg?logo=typescript&logoColor=white">
+        </a>
+        <!-- TypeScript -->
+        <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="TypeScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
         <!-- React -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
+        <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="React"
                         src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
         </a>
         <!-- NextJS -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="NextJS"
+        <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="NextJS"
                         src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
         </a>
         <!-- TailwindCSS -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="TailwindCSS"
+        <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="TailwindCSS"
                         src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
         </a>
         <!-- Arduino -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
+        <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="Arduino"
                         src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
         </a>
 </p>
@@ -73,19 +73,19 @@ Here are some ideas to get you started:
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Mail -->
-        <a href="mailto:connect.shafin@gmail.com" target="_blank"><img alt="Mail"
+        <a href="mailto:alechipre@gmail.com" target="_blank"><img alt="Mail"
                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Twitter -->
-        <a href="https://twitter.com/connectshafin" target="_blank"><img alt="Twitter"
+        <a href="https://twitter.com/chipredev" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
         </a>
         <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
+        <a href="https://www.linkedin.com/in/chipredev/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
         <!-- Youtube -->
-        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
+        <a href="https://www.youtube.com/c/hipredev/videos" target="_blank"><img alt="Youtube"
                 src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
         </a>
     </p>
