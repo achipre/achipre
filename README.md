@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shahriarshafin.github.io/">Shahriar Shafin</a></b>
+                <b><a target="_blank" href="https://shahriarshafin.github.io/">Alex Chipre</a></b>
         </samp>
 </h3>
 <br>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a software developer from <b>Bangladesh</b> 」
+                「 I'm a software developer from <b>Ecuador</b> 」
                 <br>
                 「 Focused on creating impactful web applications that improve lives</b> 」
                 <br>
@@ -67,8 +67,8 @@ Here are some ideas to get you started:
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Shahriar Shafin's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=ShahriarShafin&show_icons=true&theme=radical" />
+        <img alt="Alex Chipre's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=chipredev&show_icons=true&theme=radical" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
         <!-- Youtube -->
-        <a href="https://www.youtube.com/c/hipredev/videos" target="_blank"><img alt="Youtube"
+        <a href="https://www.youtube.com/chipredev/videos" target="_blank"><img alt="Youtube"
                 src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
         </a>
     </p>
