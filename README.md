@@ -37,7 +37,7 @@ Here are some ideas to get you started:
         <!-- Technologies -->
         <!-- JavaScript -->
         <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/npm/v/npm.svg?logo=typescript&logoColor=white">
+                        src="https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript">
         </a>
         <!-- TypeScript -->
         <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="TypeScript"
