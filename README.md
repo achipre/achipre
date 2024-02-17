@@ -36,29 +36,29 @@ Here are some ideas to get you started:
         </samp>
         <!-- Technologies -->
         <!-- JavaScript -->
-        <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript">
+        <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="TypeScript"
+                        src="https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript&logoColor=black">
         </a>
         <!-- TypeScript -->
-        <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="TypeScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=black">
         </a>
         <!-- React -->
-        <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white">
+        <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="React.js"
+                        src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black">
         </a>
         <!-- NextJS -->
         <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="NextJS"
-                        src="https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=Next.js&logoColor=black">
+                        src="https://img.shields.io/badge/Nextjs-white?style=for-the-badge&logo=nextdotjs&logoColor=black">
+        </a>
+        <!-- Astro -->
+        <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="Astro"
+                        src="https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro&logoColor=black">
+        </a>
         </a>
         <!-- TailwindCSS -->
         <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="TailwindCSS"
-                        src="https://img.shields.io/badge/-TailwindCSS-10172a?style=flat-square&logo=Tailwindcss&logoColor=37bcf8">
-        </a>
-        <!-- Arduino -->
-        <a href="https://github.com/achipre?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
-        </a>
+                        src="https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=black">
 </p>
 
 <!-- Details Section -->
