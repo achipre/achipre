@@ -68,26 +68,35 @@ Here are some ideas to get you started:
         <br>
         <!-- Activity Widget -->
         <img alt="Alex Chipre's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=achipre&show_icons=true&theme=radical" />
+                src="https://github-readme-stats.vercel.app/api?username=achipre&show_icons=true&theme=dark" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Mail -->
-        <a href="mailto:alechipre@gmail.com" target="_blank"><img alt="Mail"
-                src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        <a href="mailto:alechipre@gmail.com" target="_blank">
+                <img alt="Mail"
+                src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
         </a>
         <!-- Twitter -->
-        <a href="https://twitter.com/chipredev" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
+        <a href="https://twitter.com/chipredev" target="_blank">
+                <img alt="Twitter"
+                src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white">
         </a>
         <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/chipredev/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        <a href="https://www.linkedin.com/in/alexchipre/" target="_blank">
+                <img alt="Linkedin"
+                src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+        <!-- Instagram -->
+        <a href="https://www.instagram.com/chipredev/" target="_blank">
+                <img alt="Instagram"
+                src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white">
         </a>
         <!-- Youtube -->
-        <a href="https://www.youtube.com/chipredev/videos" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
-        </a>
+<!--         <a href="https://www.youtube.com/chipredev/videos" target="_blank">
+                <img alt="Youtube"
+                src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+        </a> -->
     </p>
 </details>
 <br>
